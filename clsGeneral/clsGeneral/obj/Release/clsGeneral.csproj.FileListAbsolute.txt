@@ -1,0 +1,25 @@
+D:\clsGeneral\clsGeneral\bin\Release\clsGeneral.dll
+D:\clsGeneral\clsGeneral\bin\Release\clsGeneral.pdb
+D:\clsGeneral\clsGeneral\bin\Release\Interop.Barcode.dll
+D:\clsGeneral\clsGeneral\bin\Release\Interop.FAXCOMLib.dll
+D:\clsGeneral\clsGeneral\obj\Release\ResolveAssemblyReference.cache
+D:\clsGeneral\clsGeneral\obj\Release\Interop.Barcode.dll
+D:\clsGeneral\clsGeneral\obj\Release\Interop.FAXCOMLib.dll
+D:\clsGeneral\clsGeneral\obj\Release\clsGeneral.csproj.ResolveComReference.cache
+D:\clsGeneral\clsGeneral\obj\Release\clsGeneral.dll
+D:\clsGeneral\clsGeneral\obj\Release\clsGeneral.pdb
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\clsGeneral.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\clsGeneral.pdb
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Release\clsGeneral.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Release\clsGeneral.pdb
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Release\CrystalDecisions.ReportSource.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Release\EmailLibrary.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Release\stdole.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Release\Interop.FAXCOMLib.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\clsGeneral.csproj.AssemblyReference.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\Interop.FAXCOMLib.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\clsGeneral.csproj.ResolveComReference.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\MALL.frmReportForm.resources
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\clsGeneral.csproj.GenerateResource.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\clsGeneral.csproj.CoreCompileInputs.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Release\clsGeneral.csproj.CopyComplete

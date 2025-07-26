@@ -1,0 +1,4 @@
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\x64\Debug\clsGeneral.csprojAssemblyReference.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\x64\Debug\Interop.FAXCOMLib.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\x64\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\x64\Debug\clsGeneral.csproj.CoreCompileInputs.cache

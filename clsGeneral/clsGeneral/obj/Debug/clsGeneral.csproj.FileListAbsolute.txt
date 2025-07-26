@@ -1,0 +1,240 @@
+D:\WAL\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+D:\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+D:\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+D:\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+D:\clsGeneral\clsGeneral\bin\Debug\Interop.Barcode.dll
+D:\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+D:\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+D:\clsGeneral\clsGeneral\obj\Debug\Interop.Barcode.dll
+D:\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+D:\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+D:\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\DXBMALL\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+D:\DXBMALL\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+D:\DXBMALL\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\DXBMALL\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+D:\DXBMALL\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\office.dll
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\DXBMALL\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+F:\PROJECTS\SGC_DLL\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\LATEST SGC DLL CODE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\LATEST SGC DLL CODE NEW\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+D:\LIVE CODE NEW SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\LIVE CODE NEW SGC DLL\LIVE CODE SGC DLL\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+D:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+C:\Users\MUKESH\Desktop\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\MERGE ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\latest codes\MERGE ERP_02092019\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\ResolveAssemblyReference.cache
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+D:\SGC ERP\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\office.dll
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+C:\Users\MUKESHMOHANAN\Desktop\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csprojResolveAssemblyReference.cache
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+D:\SGC_ERP_SHARJAH_02012020\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\bin\Debug\stdole.dll
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csprojAssemblyReference.cache
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.CoreCompileInputs.cache
+E:\SGC_ERP_SHARJAH_02012020 - MailChecking\SGC_ERP_SHARJAH_02012020\SGC ERP\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.CopyComplete
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\SGC_DLL_LATEST_2019VS_4.5_SHARJAH\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csprojResolveAssemblyReference.cache
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\stdole.dll
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csprojAssemblyReference.cache
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.CoreCompileInputs.cache
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.CopyComplete
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+E:\13082020\SHARJAH_13082020\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
+D:\SGC ERP LIVE\SGC_DLL\bin\x86\Debug\clsGeneral.dll
+D:\SGC ERP LIVE\SGC_DLL\bin\x86\Debug\clsGeneral.pdb
+D:\SGC ERP LIVE\SGC_DLL\bin\x86\Debug\clsGeneral.tlb
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.pdb
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\clsGeneral.tlb
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\stdole.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\bin\Debug\Interop.FAXCOMLib.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.AssemblyReference.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\Interop.FAXCOMLib.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.ResolveComReference.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\MALL.frmReportForm.resources
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.GenerateResource.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.CoreCompileInputs.cache
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.csproj.CopyComplete
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.dll
+D:\SGC ERP LIVE\clsGeneral\clsGeneral\clsGeneral\obj\Debug\clsGeneral.pdb
